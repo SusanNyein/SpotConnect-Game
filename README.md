@@ -15,6 +15,6 @@ INTRODUCTION
  
    *Java Standard Edition (J2SE)
    
-   	- Eclipse (Version: Helios Service Release 1)
+   	-Eclipse (Version: Helios Service Release 1)
 	
-        - Jdk 1.7.0
+        -Jdk 1.7.0
